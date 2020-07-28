@@ -1,4 +1,4 @@
-# Project_CoronaMana
+# Project: CoronaMana
 
 **Made by:**
 
