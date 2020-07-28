@@ -2,7 +2,7 @@
 
 **Made by:**
 
-**Daniel Santoso (2201756506)**
+Daniel Santoso (2201756506)
 
 **Description:**
 
